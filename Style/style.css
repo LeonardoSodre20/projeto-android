@@ -260,6 +260,17 @@ main img.pequena
     margin: auto;
 }
 
+.container-android-img{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+    
+
+
+
 
 
 
